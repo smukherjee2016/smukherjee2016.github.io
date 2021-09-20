@@ -25,3 +25,8 @@ Originally from India. Graduated with a Bachelor of Engineering (B.E.) in Comput
 Joined the Hachisuka Laboratory at the University of Tokyo as an International Graduate Research Student while being selected by Embassy Recommendation for the MEXT Scholarship in April 2016. Cleared the entrance examinations and became a Master's Student from October, 2016. Proceeded to the Doctoral course under the same lab and supervisor from October, 2018.
 
 Currently working towards PhD under Prof. Umetani at The University of Tokyo.
+
+# Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
