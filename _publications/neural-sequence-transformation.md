@@ -14,4 +14,5 @@ venue: 'Computer Graphics Forum (Proceedings of Pacific Graphics 2021)'
 A data-driven approach to applying sequence transformation to Monte Carlo integration.
 
 [Paper](/files/nst.pdf)
+
 Code (Coming Soon)
