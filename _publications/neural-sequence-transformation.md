@@ -9,7 +9,7 @@ venue: 'Computer Graphics Forum (Proceedings of Pacific Graphics 2021)'
 # citation: ''
 ---
 
-**Sabyasachi Mukherjee**, [Sayan Mukherjee](https://homepages.math.uic.edu/~potla/), [Son Hua](https://sonhua.github.io/), [Nobuyuki Umetani](https://cgenglab.github.io/labpage/en/authors/admin/), [Daniel Meister](https://meistdan.github.io/)
+**Sabyasachi Mukherjee**, [Sayan Mukherjee](https://homepages.math.uic.edu/~potla/), [Binh-Son Hua](https://sonhua.github.io/), [Nobuyuki Umetani](https://cgenglab.github.io/labpage/en/authors/admin/), [Daniel Meister](https://meistdan.github.io/)
 
 A data-driven approach to applying sequence transformation to Monte Carlo integration.
 
