@@ -16,3 +16,7 @@ A data-driven approach to applying sequence transformation to Monte Carlo integr
 [Paper](/files/nst.pdf)
 
 Code (Coming Soon)
+
+[Video](https://youtu.be/xlmH3h0R6Pg)
+
+[Slides](/files/nst_slides_PG2021_v5.pdf)
