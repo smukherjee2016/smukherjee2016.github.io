@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to CV](CV_Sabyasachi_v21.pdf)
+[Link to CV](CV_Sabyasachi_v22.pdf)
 
 Please note that the [semantic versioning system](http://semver.org/) is **not** followed for this pdf.
 
