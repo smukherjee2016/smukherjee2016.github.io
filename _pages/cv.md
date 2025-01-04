@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to Résumé](Résumé_Sabyasachi_v25.pdf)
+[Link to Résumé](Résumé_Sabyasachi_Mukherjee.pdf)
 
 Education
 ======
